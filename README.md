@@ -1,1 +1,2 @@
 # javaweb_login
+javaweb的登录程序，实现了cookie的存储以及session的存储，学习了web.xml的配置，servlet的使用
